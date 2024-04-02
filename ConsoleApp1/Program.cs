@@ -50,6 +50,13 @@ namespace lab21
                             Console.WriteLine();
                             break;
                         }
+                    case 5:
+                        {
+                            Console.WriteLine();
+                            Console.WriteLine(a * b);
+                            Console.WriteLine();
+                            break;
+                        }
                     case 7:
                         {
                             exit = true;
